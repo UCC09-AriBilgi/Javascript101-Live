@@ -67,10 +67,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AcilirMenu.html" />
     <Content Include="AritmetikIslem.html" />
+    <Content Include="FormPopup.html" />
     <Content Include="HelloWorld.html" />
+    <Content Include="kapat.html" />
+    <Content Include="Notes.txt" />
     <Content Include="SayiYazdir.html" />
     <Content Include="script\JSScripts.js" />
+    <Content Include="StyleChange.html" />
+    <Content Include="styles\styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

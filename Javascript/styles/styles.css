@@ -1,0 +1,133 @@
+﻿body {
+    /*background-color: coral;*/
+}
+
+.resim1 {
+    width: 40%;
+    height: 40%;
+}
+
+.resim2 {
+    width: 40%;
+    height: 40%;
+}
+
+.yazi1 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.yazi2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    text-align: center;
+}
+
+
+
+a:hover {
+    color: red;
+    font-weight: 900;
+}
+
+
+
+.div1 {
+    font-size: 30px;
+    background-color: red;
+    color: yellow; /* div in içine yazılan yazının rengi */
+    /*margin : 13px;*/
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    border: 2px solid white;
+}
+
+.div2 {
+    font-size: 10px;
+    background-color: aliceblue;
+    color: yellow; /* div in içine yazılan yazının rengi */
+    /*margin : 13px;*/
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    border: 2px solid white;
+}
+
+.baslik1{
+    color:white;
+    background-color:#009900;
+    width:400px;
+}
+
+h2 {
+    color: aqua;
+    background-color: #129911;
+    width: 300px;
+}
+
+p{
+    margin-left:30px;
+    color:antiquewhite;
+}
+
+.leftdiv {
+    float: left;
+    background-color: azure;
+}
+.leftdiv1 {
+    float: left;
+    background-color: gainsboro;
+    width: 40%;
+}
+.middlediv {
+    float: left;
+    background-color: gainsboro;
+
+}
+
+.rightdiv {
+    float: left;
+    background-color: coral;
+}
+.rightdiv1 {
+    float: left;
+    background-color: coral;
+    width: 40%;
+}
+
+div {
+    font-size: 14px;
+    background-color: #009900;
+    color: white; /* div in içine yazılan yazının rengi */
+    /*margin : 13px;*/
+/*    margin-left: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 50px;*/
+    border: 2px solid red;
+    /*padding:1%;*/
+    margin-left:5px;
+    margin-bottom:20px;
+    width:30%;
+}
+
+th {
+    text-align:left;
+}
+
+.fcrmain{
+    margin-top:50px;
+    background-color:burlywood;
+    padding:30px;
+
+}
+
+.fcrtable{
+    background-color:aquamarine;
+    background-image:url('images\Neom.jpg')
+
+}

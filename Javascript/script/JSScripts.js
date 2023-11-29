@@ -29,3 +29,37 @@ function topla() {
 
     document.getElementById("Mesaj").innerHTML = "Toplam = " + gosterilecek;
 }
+
+function selectolustur() {
+    var yillar = document.getElementById("yillar");
+
+    for (var i = 1965; i <= 2030; i++) {
+        yillar.options[yillar.options.lenght] = new Option(i, i);
+    }
+        
+}
+
+function styledegistir() {
+
+    var eleman = document.getElementsByClassName("yazi1"); // sayfa üzerindeki class tanımı yazi1 olan tüm elemanları seçiyor.
+
+    var index;
+
+    // documandaki tüm elamanları dolasarak bir stil özelliği değiştirecek
+    for (var index = 0; index < eleman.length; index++) {
+        eleman[index].style.color = "red";
+        eleman[index].style.fontSize = "30px";
+    }
+}
+
+function pencereac() {
+    window.open("kapat.html", "MESAJ", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbar=no,resizeable=no,width=280,height=400,left=200,screenX=200,screenY=300,top=300");
+}
+
+function pencerekapat() {
+    var cevap = confirm("Gerçekten sayfadan ayrılmak istiyor musunuz?");
+
+    if (cevap == true) {
+        window.close();
+    }
+}
