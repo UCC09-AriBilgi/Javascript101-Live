@@ -69,7 +69,10 @@
   <ItemGroup>
     <Content Include="AcilirMenu.html" />
     <Content Include="AritmetikIslem.html" />
+    <Content Include="Countdown.html" />
+    <Content Include="FarkliFonksiyonlar.html" />
     <Content Include="FormPopup.html" />
+    <Content Include="GetValues.html" />
     <Content Include="HelloWorld.html" />
     <Content Include="kapat.html" />
     <Content Include="Notes.txt" />

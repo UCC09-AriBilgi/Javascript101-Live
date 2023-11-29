@@ -75,3 +75,64 @@ function normal(){
 function genislet(){
     document.getElementById("kutu").className = "genis";
 }
+
+function uzerimde() {
+    document.getElementById("metin2").innerHTML = "Fare üzerimde";
+}
+
+function disarida() {
+    document.getElementById("metin2").innerHTML = "Fare üzerimde değil";
+}
+
+// Farklı fonksiyonlar
+
+function tiklandi() {
+    document.getElementById("metin1").innerHTML = "Tıklandı";
+}
+
+function basildi() {
+    document.getElementById("metin3").innerHTML = "Mouse tuşuna tıklandı";
+}
+
+function birakildi() {
+    document.getElementById("metin3").innerHTML = "Mouse tuşu bırakıldı";
+}
+
+// GetValues
+function yaz() {
+    var a = document.getElementById("kutu1").value;
+
+    document.getElementById("snc1").innerHTML = a;
+}
+
+function artir() {
+    var b = parseInt(document.getElementById("kutu2").value);
+
+    b++;
+
+    document.getElementById("kutu2").value = b;
+}
+
+function azalt() {
+    var b = parseInt(document.getElementById("kutu2").value);
+
+    b--;
+
+    document.getElementById("kutu2").value = b;
+}
+
+function htmlEkle() {
+    document.getElementById("snc3").innerHTML = "<table width='150' border='1' cellspacing= '0' callpadding='3'><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>4</td><td>5</td><td>6</td></tr><tr><td>7</td><td>8</td><td>9</td></tr></table>"
+}
+
+// Countdown
+var sayac = 10;
+
+function say() {
+    document.getElementById("kutu1").innerHTML = sayac;
+    sayac--;
+
+    if (sayac == 0) {
+        document.write("İşlem bitti...");
+    }
+}
