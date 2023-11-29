@@ -75,6 +75,7 @@
     <Content Include="Notes.txt" />
     <Content Include="SayiYazdir.html" />
     <Content Include="script\JSScripts.js" />
+    <Content Include="StyleChange_2.html" />
     <Content Include="StyleChange.html" />
     <Content Include="styles\styles.css" />
     <Content Include="Web.config" />
