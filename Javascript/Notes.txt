@@ -1,3 +1,5 @@
 ﻿- Select JS?
 30.11.2023
-- switch/case
++ switch/case
+? slider
+- stiller üzerinden renk değiştirme
