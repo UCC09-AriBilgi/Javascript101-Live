@@ -88,11 +88,13 @@
     <Content Include="Notes.txt" />
     <Content Include="OnFocusBlur.html" />
     <Content Include="RenkDegistir.html" />
+    <Content Include="SayiTahmin.html" />
     <Content Include="SayiYazdir.html" />
     <Content Include="script\horserace.js" />
     <Content Include="script\JSScripts.js" />
     <Content Include="script\onfocusblur.js" />
     <Content Include="script\renkdegistir.js" />
+    <Content Include="script\sayitahmin.js" />
     <Content Include="script\slider.js" />
     <Content Include="script\switchcase.js" />
     <Content Include="script\timeout.js" />
@@ -100,6 +102,7 @@
     <Content Include="StyleChange_2.html" />
     <Content Include="StyleChange.html" />
     <Content Include="styles\horserace.css" />
+    <Content Include="styles\sayitahmin.css" />
     <Content Include="styles\slider.css" />
     <Content Include="styles\styles.css" />
     <Content Include="SwitchCase.html" />

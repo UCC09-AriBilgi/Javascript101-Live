@@ -5,4 +5,5 @@
 ? slider
 + stiller üzerinden renk değiştirme
 + Timer
-- Horse Race
++~ Horse Race
+? Sayı Tahmin
