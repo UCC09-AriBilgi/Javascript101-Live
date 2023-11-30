@@ -1,2 +1,3 @@
 ﻿- Select JS?
-
+30.11.2023
+- switch/case
