@@ -1,5 +1,7 @@
 ﻿- Select JS?
+
 30.11.2023
 + switch/case
 ? slider
-- stiller üzerinden renk değiştirme
++ stiller üzerinden renk değiştirme
++ Timer

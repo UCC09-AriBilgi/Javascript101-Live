@@ -88,12 +88,14 @@
     <Content Include="script\renkdegistir.js" />
     <Content Include="script\slider.js" />
     <Content Include="script\switchcase.js" />
+    <Content Include="script\timeout.js" />
     <Content Include="Slider.html" />
     <Content Include="StyleChange_2.html" />
     <Content Include="StyleChange.html" />
     <Content Include="styles\slider.css" />
     <Content Include="styles\styles.css" />
     <Content Include="SwitchCase.html" />
+    <Content Include="TimeOut.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

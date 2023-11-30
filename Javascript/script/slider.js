@@ -1,4 +1,6 @@
-﻿// Global değişgenler
+﻿"use strict";
+
+// Global değişgenler
 var slayt = document.getElementsByClassName("slide") // dizi
 var slaytSayisi = slide.length;
 var slaytNo = 0;
