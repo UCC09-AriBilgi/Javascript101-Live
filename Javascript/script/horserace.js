@@ -154,6 +154,7 @@ function atbes() {
                 //setTimeout(function () {
                 //    alert("Kazanan at : 5.At");
                 //}, 2000);
+                setTimeout(Yarisma,2000);
                 document.getElementById("kazanan").innerHTML = "Kazanan at : 5";
                 horse5.style.marginLeft = bitis + "px";
             }
