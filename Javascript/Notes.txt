@@ -5,3 +5,4 @@
 ? slider
 + stiller üzerinden renk değiştirme
 + Timer
+- Horse Race
